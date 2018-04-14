@@ -1,5 +1,7 @@
-import DuckBehavior.Fly.FlyBehavior;
-import DuckBehavior.Quack.QuackBehavior;
+package Chapter1;
+
+import Chapter1.DuckBehavior.Fly.FlyBehavior;
+import Chapter1.DuckBehavior.Quack.QuackBehavior;
 
 public class Duck {
 

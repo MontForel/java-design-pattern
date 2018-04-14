@@ -1,5 +1,7 @@
-import DuckBehavior.Fly.FlyNoWay;
-import DuckBehavior.Quack.MuteQuack;
+package Chapter1;
+
+import Chapter1.DuckBehavior.Fly.FlyNoWay;
+import Chapter1.DuckBehavior.Quack.MuteQuack;
 
 public class WoodenDuck extends Duck{
     public WoodenDuck () {

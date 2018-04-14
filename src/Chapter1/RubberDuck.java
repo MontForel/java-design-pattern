@@ -1,5 +1,7 @@
-import DuckBehavior.Fly.FlyNoWay;
-import DuckBehavior.Quack.Squeak;
+package Chapter1;
+
+import Chapter1.DuckBehavior.Fly.FlyNoWay;
+import Chapter1.DuckBehavior.Quack.Squeak;
 
 public class RubberDuck extends Duck {
 

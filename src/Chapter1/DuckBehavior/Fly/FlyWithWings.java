@@ -1,4 +1,4 @@
-package DuckBehavior.Fly;
+package Chapter1.DuckBehavior.Fly;
 
 public class FlyWithWings implements FlyBehavior {
     @Override

@@ -1,5 +1,7 @@
-import DuckBehavior.Fly.FlyWithWings;
-import DuckBehavior.Quack.Quack;
+package Chapter1;
+
+import Chapter1.DuckBehavior.Fly.FlyWithWings;
+import Chapter1.DuckBehavior.Quack.Quack;
 
 public class MallardDuck extends Duck {
     public MallardDuck() {
